@@ -1,0 +1,42 @@
+{
+  "invoice_number": "INV-2024-001",
+  "dates": [
+    "10001",
+    "March 15, 2024",
+    "April 15, 2024"
+  ],
+  "amounts": [
+    123.0,
+    100.0,
+    1.0,
+    15.0,
+    202.0,
+    4.0,
+    15.0,
+    202.0,
+    4.0,
+    202.0,
+    4.0,
+    1.0,
+    1875.55
+  ],
+  "persons": [
+    "John Smith",
+    "Sarah Johnson"
+  ],
+  "organizations": [
+    "Acme Corporation",
+    "Finance Department",
+    "Microsoft Corporation\nProject: Website Redesign",
+    "First National Bank"
+  ],
+  "locations": [
+    "New York",
+    "London"
+  ],
+  "money": [
+    "1,875.55"
+  ],
+  "total_amount": 1875.55,
+  "invoice_date": "10001"
+}
